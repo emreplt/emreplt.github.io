@@ -1,3 +1,3 @@
 # emreplt.github.io
 
-Life's [weird](http://emreplt.github.io)
+Life's [Blah](http://emreplt.github.io)
